@@ -1,0 +1,216 @@
+.heading a
+{
+    
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-decoration: none;
+    padding-left: 40px;
+}
+.heading .vivo
+{
+  
+    font-size: 40px;
+    font-style: normal;
+}
+.img
+{
+    padding-left: 50px;
+    padding-top: 10px;
+}
+.main
+{
+    
+    
+    display: flex;
+    background-color: white;
+   
+    
+}
+.one 
+{
+    font-size: 25px;
+    padding-top: 120px;
+    padding-left: 20px;
+    margin-left: 15px;
+    
+    
+}
+.arrow
+{
+    border: 2.5px solid black ; 
+    padding-left: 14px;
+    padding-right: 14px;
+    border-radius: 15px;
+    font-family: fantasy;
+    
+}
+.two 
+{
+   padding-left: 130px;
+
+}
+.number
+{
+    display: flex;
+}
+.three {
+
+    border: 5px  solid white;
+    height: 500px; width: 1200px;
+    padding-left: 80px;
+    padding-right: 0px;  
+}
+.four 
+{
+    padding-left:80px ;
+
+}
+.discover
+{
+    font-size: 44px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 60px;
+}
+.imgfour
+{
+    margin-left: 15px;
+    padding-left: 40px;
+    position: absolute;
+    
+}
+.tx
+{
+    position: relative;
+    padding-top: 200px;
+    padding-left: 80px;
+    color:whitesmoke;
+    font-size:large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.arrange
+{
+    display:flex;
+    position: absolute;
+}
+.x80pro
+{
+    position: absolute;
+}
+.xt
+{
+    position: relative;
+    color: white;
+    padding-top: 450px;
+    padding-left: 20px;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.imgfive
+{
+    padding-left: 225px;
+
+}
+.imgsix
+{
+    padding-left:170px ;
+}
+.ext
+{
+    padding-left: 20px;
+    font-style: normal;
+    font-size: larger;
+    
+     
+}
+.tone{
+    padding-left: 28px;
+    font-style: initial;
+    font-size: larger;
+    
+}
+.imgseven
+{
+    padding-left: 55px;
+    padding-top: 330px;
+    position: relative;
+}
+.seveneight
+{
+    display: flex;
+}
+.imgeight{
+    padding-left: 450px;
+    padding-top: 32%;
+}
+.y75
+{
+    position: absolute;
+}
+.y7
+{
+    position: relative;
+    color: antiquewhite;
+    padding-left: 25px;
+    padding-top: 150px;
+    font-weight: bold;
+}
+.linefour{
+    padding-left: 35px;
+    font-size: large;
+    
+}
+.linethree{
+    padding-left: 35px;
+    font-size: large;
+}
+.linetwo{
+    padding-left: 35px;
+    font-size: large;
+}
+.lineone{
+    padding-left:70px ;
+    font-size: large;
+}
+
+.frame
+{
+    display: flex;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    padding-top: 20px;
+}
+.lineone a
+{
+    color: lightslategray;
+    text-decoration: none;
+}
+.linetwo a
+    {
+        color: lightslategray;
+        text-decoration:none;
+    }
+.linethree a{
+    color: lightslategray;
+    text-decoration:none;
+}
+.linefour a{
+    color: lightslategray;
+    text-decoration:none;
+}
+.linefive{
+    padding-left: 190px;
+    padding-top: 20px;
+    font-size: 20px;
+    color: lightslategray;
+}
+.number1{
+    font-size: xx-large;
+    color: aliceblue;
+}
+.hrline{
+   padding-bottom: 80px;
+}
